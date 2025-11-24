@@ -1,8 +1,3 @@
-Here is a clean, GitHub-ready, well-structured README.md for your CLV project.
-It uses professional formatting, clear sections, and developer-friendly Markdown.
-
-⸻
-
 Customer Lifetime Value (CLV) Prediction
 
 This project builds a machine learning pipeline to predict Customer Lifetime Value (CLV) using real-world e-commerce transaction data. It includes data preprocessing, feature engineering, multiple model evaluations, hyperparameter optimization, visualization, and computational complexity analysis.
